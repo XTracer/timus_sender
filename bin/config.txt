@@ -1,0 +1,24 @@
+161223NA
+21
+-----------------------
+This is config file.
+First line = TIMUS_ID
+Second line = Language ID
+
+List of language ID:
+[3]=FreePascal 2.0.4
+[9]=Visual C 2010
+[10]=Visual C++ 2010
+[11]=Visual C# 2010
+[12]=Java 1.7
+[14]=Go 1.1
+[15]=VB.NET 2010
+[16]=Python 2.7
+[17]=Python 3.3
+[18]=Ruby 1.9.3
+[19]=Haskell 7.6.1
+[20]=GCC 4.7.2
+[21]=G++ 4.7.2
+[22]=GCC 4.7.2 C11
+[23]=G++ 4.7.2 C++11
+[24]=Scala 2.10.1
