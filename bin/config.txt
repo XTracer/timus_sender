@@ -2,7 +2,7 @@
 21
 -----------------------
 This is config file.
-First line = TIMUS_ID
+First line = JUDGE_ID
 Second line = Language ID
 
 List of language ID:
